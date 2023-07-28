@@ -36,13 +36,13 @@ To add something to this list, please see the [contribution guidelines](CONTRIBU
 * [CHIP-8 Instruction Set](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Instruction-Set) - A comprehensive instruction/opcode table.
 * [CHIP-8 Technical Reference](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Technical-Reference) - Overview of how the CHIP-8 interpreter works.
 * [CHIP-8 Extensions Reference](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Extensions-Reference) - A list of CHIP-8 variants and extensions.
-* [Chip-8 on the COSMAC VIP](https://laurencescotford.com/chip-8-on-the-cosmac-vip-index/) - An in-depth disassembly and analysis of the original CHIP-8 interpreter on the COSMAC VIP.
+* [Chip-8 on the COSMAC VIP](https://www.laurencescotford.net/chip-8-on-the-cosmac-vip-index/) - An in-depth disassembly and analysis of the original CHIP-8 interpreter on the COSMAC VIP.
 * [HP48-Superchip](https://github.com/Chromatophore/HP48-Superchip) - An in-depth look at CHIP48 and Super-CHIP for the HP48 calculators, and modifications to make them CHIP-8 compatible.
 * [Octo Extensions](http://johnearnest.github.io/Octo/docs/XO-ChipSpecification.html) - Specification for Octo's XO-CHIP extension.
 
 ## Emulator/interpreter development
 
-* [How to write an emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/) - A guide to developing a CHIP-8 interpreter in C/C++.
+* [How to write an emulator (CHIP-8 interpreter)](https://multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/) - A guide to developing a CHIP-8 interpreter in C/C++.
 * [Emulator 101: CHIP-8](http://www.emulator101.com/introduction-to-chip-8.html) - A guide to developing a CHIP-8 disassembler and interpreter in C.
 * [Chip 8 Instruction Scheduling and Frequency](https://jackson-s.me/2019/07/13/Chip-8-Instruction-Scheduling-and-Frequency.html) - Timing of CHIP-8 instructions on the COSMAC VIP.
 * [High-level guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/) - A guide for developing a CHIP-8 interpreter, without code.
